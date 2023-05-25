@@ -1,2 +1,2 @@
 # ADT-Bag
-ADT Bag -> vector
+ADT Bag implemented using STL vector
